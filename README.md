@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi 👋 I'm Sanchit Shukla
 
-<!--
-**SanchitShukla6306/Sanchitshukla6306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Scientist with hands-on experience in Machine Learning, 
+Data Analysis, and Anomaly Detection through real-world and Kaggle projects.
 
-Here are some ideas to get you started:
+🛠 Skills
+- Python, Pandas, NumPy, Scikit-learn
+- SQL, Power BI , Machine Learning
+- EDA, Feature Engineering, Model Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Projects
+- Anomaly Detection on Sensor Data (Score: 69.99875)
+- Titanic Survival Prediction (End-to-End ML)
+- Kaggle Tabular Projects
+
+🔗 Links
+- LinkedIn: www.linkedin.com/in/sanchit-shukla-datascience
+- Kaggle: https://www.kaggle.com/sanchitshukla
+
